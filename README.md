@@ -38,6 +38,10 @@ I consider myself curious, responsible, adaptable and dedicated to continuous im
 - Employee Churn Prediction using Decision Tree Classifier
 - Federated Deep Learning with Zero Trust Security
 
+## Project Sample Screenshots
+
+<img width="752" height="752" alt="image" src="https://github.com/user-attachments/assets/55f9a4e9-d6ea-40bc-a2c4-5ed11c58f098" />
+
 ## Currently Learning
 - Advanced Python
 - AWS Cloud Services
