@@ -42,6 +42,10 @@ I consider myself curious, responsible, adaptable and dedicated to continuous im
 
 <img width="752" height="752" alt="image" src="https://github.com/user-attachments/assets/55f9a4e9-d6ea-40bc-a2c4-5ed11c58f098" />
 
+## my portfolio
+
+https://github.com/Sirisha80743/portfolio.git
+
 ## Currently Learning
 - Advanced Python
 - AWS Cloud Services
